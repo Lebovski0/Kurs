@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+button{
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+a{
+    text-align: center;
+}
+.container{
+    width: 1110px;
+    margin: 0 auto;
+}
+.header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.header-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
